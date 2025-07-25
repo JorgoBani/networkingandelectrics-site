@@ -6,12 +6,12 @@ media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
 
 collections:
-  - name: "pages"
-    label: "Pages"
+  - name: "settings"
+    label: "Site Settings"
     files:
       - label: "Home Page"
         name: "home"
         file: "index.html"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Body", name: "body", widget: "text" }
+          - { label: "Headline", name: "title", widget: "string" }
+          - { label: "Content", name: "body", widget: "text" }
