@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Networking & Electrics</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <h1>Welcome to Networking & Electrics</h1>
+    <p>Site under construction</p>
+    <p><a href="/admin">Go to Admin</a></p>
+  </body>
+</html>
